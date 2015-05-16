@@ -1,1 +1,55 @@
-# HTML5_Simbolos_Especiais
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8"/>
+<title>Caracteres Especiais</title>
+</head>
+<body>
+	<p>
+		&lt;
+		&gt;
+		&le;
+		&ge;<br/>
+	</p>
+	<p>
+		&pound;
+		&yen;
+		&euro;<br/>
+	</p>
+	<p>
+		&copy;
+		&reg;
+		&trade;<br/>
+	</p>
+	<p>
+		&permil;
+		&sum;
+		&infin;
+		&times;
+		&plusmn;
+		&oplus;
+		&radic;
+		&ne;<br/>
+	</p>
+	<p>
+		&delta;
+		&Delta;
+		&Lambda;
+		&omega;
+		&phi;<br/>
+	</p>
+	<p>
+		&larr;
+		&rarr;
+		&uarr;
+		&darr;
+		&harr;<br/>
+	</p>
+	<p>
+		&spades;
+		&clubs;
+		&hearts;
+		&diams;<br/>
+	</P>
+</body>
+</html>
